@@ -69,6 +69,9 @@ li{
 .navbar ul li:hover{
     background-color:#8F746C;
 }
+.slider-wrapper{
+    position: relative;
+}
 .slider{
     width: 960px;
     height: 559px;
